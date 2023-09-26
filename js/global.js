@@ -126,8 +126,7 @@ const footer = `
 		<div class="col-lg-6">
 			<div class="copyright">
 				&copy; Copyright Reserved. POWERED BY <a href="https://dijisync.com/"
-					target="_blank">DijiSync
-					HCS LLC</a>
+					target="_blank">DIJINATION LLC</a>
 			</div>
 		</div>
 		<div class="col-lg-6 text-left text-lg-right">
